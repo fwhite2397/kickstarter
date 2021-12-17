@@ -40,10 +40,16 @@ Encountered difficulties generating the Outcomes Based on Goals using the CountI
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### - What are two conclusions you can draw about the Outcomes based on Launch Date?
+- Seasonally, it appears that a summertime launch date will have the highest potential for successful.
+- Additionally, I would avoid advise launching a play in the winter months as they have a higher degree of failure.
 
-- What can you conclude about the Outcomes based on Goals?
+### - What can you conclude about the Outcomes based on Goals?
+- Projects with goals less than 15000 have a higher percentage to succeed than with projects with goals exceeding 15000.
+- There are some projects that have exceeded with goals greater than 15000, but their overall percentages of success are a lot smaller.
 
-- What are some limitations of this dataset?
+### - What are some limitations of this dataset?
+- The data is static. We do not have any current data to run our numbers against to ensure that the trends are seeing with this dataset  still holds true.
 
-- What are some other possible tables and/or graphs that we could create?
+### - What are some other possible tables and/or graphs that we could create?
+- We can create graph of outcomes based upon specific countries, based upon places customer wants to launch. 
